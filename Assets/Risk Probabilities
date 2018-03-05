@@ -1,0 +1,47 @@
+Risk Probabilities STANDARD RULES
+
+******************************************
+3v2 Attack 3d6 Defense 2d6
+Attacks Made: 2,000,000
+Attacker Wins Both: 37.17%
+Defender Wins Both: 29.25%
+Each Loses One: 33.58%
+
+Attack Win to Defender Win Ratio: 01.27
+******************************************
+2v2 Attack 2d6 Defense 2d6
+Attacks Made: 2,000,000
+Attacker Wins Both: 22.77%
+Defender Wins Both: 44.82%
+Each Loses One: 32.4%
+
+Attack Win to Defender Win Ratio: 00.51
+******************************************
+1v2 Attack 1d6 Defense 2d6
+Attacks Made: 2,000,000
+Attacker Wins All: 25.46%
+Defender Wins All: 74.54%
+
+Attack Win to Defender Win Ratio: 00.34
+******************************************
+3v1 Attack 3d6 Defense 1d6
+Attacks Made: 2,000,000
+Attacker Wins All: 65.94%
+Defender Wins All: 34.06%
+
+Attack Win to Defender Win Ratio: 01.94
+******************************************
+2v1 Attack 2d6 Defense 1d6
+Attacks Made: 2,000,000
+Attacker Wins All: 57.91%
+Defender Wins All: 42.09%
+
+Attack Win to Defender Win Ratio: 01.38
+******************************************
+1v1 Attack 1d6 Defense 1d6
+Attacks Made: 2,000,000
+Attacker Wins All: 41.69%
+Defender Wins All: 58.31%
+
+Attack Win to Defender Win Ratio: 00.71
+******************************************

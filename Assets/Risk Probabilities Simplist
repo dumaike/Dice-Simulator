@@ -1,0 +1,47 @@
+Risk Probabilities SIMPLE ALTERNATE RULES
+
+******************************************
+3v2 Attacker 1d20 and 1d4 Defender 1d12 and 1d4
+Attacks Made: 2,000,000
+Attacker Wins Both: 29.69%
+Defender Wins Both: 23.16%
+Each Loses One: 47.14%
+
+Attack Win to Defender Win Ratio: 01.28
+******************************************
+2v2 Attack 1d12 and 1d4 Defense 1d12 and 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 21.07%
+Defender Wins All: 38.63%
+Each Loses One: 40.29%
+
+Attack Win to Defender Win Ratio: 00.55
+******************************************
+1v2 Attack 1d4 Defense 1d12 and 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 07.29%
+Defender Wins All: 92.71%
+
+Attack Win to Defender Win Ratio: 00.08
+******************************************
+3v1 Attack 1d20 and 1d4 Defender 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 90.64%
+Defender Wins All: 09.36%
+
+Attack Win to Defender Win Ratio: 09.68
+******************************************
+2v1 Attack 1d12 and 1d4 Defense 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 84.39%
+Defender Wins All: 15.61%
+
+Attack Win to Defender Win Ratio: 05.4
+******************************************
+1v1 Attack 1d4 Defense 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 37.47%
+Defender Wins All: 62.53%
+
+Attack Win to Defender Win Ratio: 00.6
+******************************************

@@ -1,0 +1,47 @@
+Risk Probabilities SIMPLE SOLO STRENGTH ALTERNATE RULES
+
+******************************************
+3v2 Attacker 1d20 and 1d4 Defender 1d12 and 1d4
+Attacks Made: 2,000,000
+Attacker Wins Both: 29.69%
+Defender Wins Both: 23.16%
+Each Loses One: 47.14%
+
+Attack Win to Defender Win Ratio: 01.28
+******************************************
+2v2 Attack 1d12 and 1d4 Defense 1d12 and 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 21.07%
+Defender Wins All: 38.63%
+Each Loses One: 40.29%
+
+Attack Win to Defender Win Ratio: 00.55
+******************************************
+1v2 Attack 1d12 Defense 1d12 and 1d4
+Attacks Made: 2,000,000
+Attacker Wins All: 44.07%
+Defender Wins All: 55.93%
+
+Attack Win to Defender Win Ratio: 00.79
+******************************************
+3v1 Attack 1d20 and 1d4 Defender 1d12
+Attacks Made: 2,000,000
+Attacker Wins All: 68.55%
+Defender Wins All: 31.45%
+
+Attack Win to Defender Win Ratio: 02.18
+******************************************
+2v1 Attack 1d12 and 1d4 Defense 1d12
+Attacks Made: 2,000,000
+Attacker Wins All: 68.53%
+Defender Wins All: 31.47%
+
+Attack Win to Defender Win Ratio: 02.18
+******************************************
+1v1 Attack 1d12 Defense 1d12
+Attacks Made: 2,000,000
+Attacker Wins All: 45.82%
+Defender Wins All: 54.18%
+
+Attack Win to Defender Win Ratio: 00.85
+******************************************
